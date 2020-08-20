@@ -1,6 +1,6 @@
-# Repogitory Popup
+# Repository Popup
 
-Your favorite repogitory update check tool.
+Your favorite repository update check tool.
 
 # demo
 
@@ -8,32 +8,37 @@ Your favorite repogitory update check tool.
 
 # solution
 
-If you exists favorite repository. goole facebook research repogitory, or your friend's.
-You want to know when new repogitory add time, but github tell you commit average only.
-this tool check repogitory update for you!
+If you exists favorite repository. goole facebook research repogitory, or your friend's.<br>
+You want to know when new repogitory add time, but github tell you commit average only.<br>
+this tool check repogitory update for you!<br>
 
 # features
 
-some repogitory add and delete use gui
-check repogitory, tool icon clicked or every 12 hour
-if exists update, notice you use alert.
-or not, extension's localstrage data update.
+some repogitory add and delete use gui<br>
+if exists update, notice you use alert.<br>
+or not, extension's localstrage data update.<br>
 
 # installation
 
-(manually install)[https://www.cnet.com/how-to/how-to-install-chrome-extensions-manually/]
+[manually install](https://www.cnet.com/how-to/how-to-install-chrome-extensions-manually/)
 
 # uninstall
 
-use app uninstall method on Chrome extension.
+use app uninstall method on **Chrome extension**.
 
 # usecase
 
-you input fovarite repogitory name to text box
+you input fovarite repogitory name to text box.<br>
 
-if delete this, [X] button click
+![1](https://github.com/yasutakatou/repop/blob/pic/1.png)
 
-if update exists alert appear!
+if update exists alert appear!<br>
+
+![2](https://github.com/yasutakatou/repop/blob/pic/2.png)
+
+if delete this, [X] button click<br>
+
+![3](https://github.com/yasutakatou/repop/blob/pic/3.png)
 
 # FYI (many thanks!)
 
