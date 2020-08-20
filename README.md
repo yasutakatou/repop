@@ -27,11 +27,11 @@ You input fovarite repogitory name to **text box**.<br>
 
 ![1](https://github.com/yasutakatou/repop/blob/pic/1.png)
 
-If update exists **notice appear**!<br>
+When you click **tool's icon**, If exists update to **notice appear**!<br>
 
 ![2](https://github.com/yasutakatou/repop/blob/pic/2.png)
 
-If delete this, **[X] button click**.<br>
+If delete this, **cross mark button click**.<br>
 
 ![3](https://github.com/yasutakatou/repop/blob/pic/3.png)
 
