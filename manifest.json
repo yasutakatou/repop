@@ -1,0 +1,14 @@
+{
+  "name": "Repository Popup",
+  "description": "Your favorite repository update check tool.",
+  "version": "0.1",
+  "incognito": "split",
+  "browser_action": {
+      "default_popup": "popup.html"
+  },
+  "manifest_version": 2,
+  "permissions":[
+    "https://github.com/*"
+  ]
+}
+
