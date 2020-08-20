@@ -2,21 +2,16 @@
 
 Your favorite repository update check tool.
 
-# demo
-
-(WIP)
-
 # solution
 
-If you exists favorite repository. goole facebook research repogitory, or your friend's.<br>
-You want to know when new repogitory add time, but github tell you commit average only.<br>
-this tool check repogitory update for you!<br>
+In case of you have a favorite repository. (ex. Goole, Facebook research repository, or your friend's.<br>
+But even if you want to be the first to know about updates, Github will only tell you about commits.<br>
+On your behalf, this tool will check the status of repositories for updates!<br>
 
 # features
 
-some repogitory add and delete use gui<br>
-if exists update, notice you use alert.<br>
-or not, extension's localstrage data update.<br>
+a repogitory add and delete use GUI.
+check update, notice you updates.<br>
 
 # installation
 
@@ -28,15 +23,15 @@ use app uninstall method on **Chrome extension**.
 
 # usecase
 
-you input fovarite repogitory name to text box.<br>
+You input fovarite repogitory name to text box.<br>
 
 ![1](https://github.com/yasutakatou/repop/blob/pic/1.png)
 
-if update exists alert appear!<br>
+If update exists notice appear!<br>
 
 ![2](https://github.com/yasutakatou/repop/blob/pic/2.png)
 
-if delete this, [X] button click<br>
+If delete this, [X] button click.<br>
 
 ![3](https://github.com/yasutakatou/repop/blob/pic/3.png)
 
